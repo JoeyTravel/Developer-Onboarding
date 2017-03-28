@@ -40,3 +40,5 @@
 `createClass` creates a new blueprint for an element, allowing to create many of the same class.  
 
 `createElement` creates a new, single instance of that blueprint.  
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/react/0.13.3/JSXTransformer.js"></script>
