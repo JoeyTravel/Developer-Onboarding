@@ -10,7 +10,7 @@
  * [Aphrodite](https://github.com/Khan/aphrodite) - `npm install --save aphrodite`
  
 
-### Install in the working directory:
+## Install in the working directory:
 `npm install --save gulp gulp-react gulp-concat`
  
  `npm init`
