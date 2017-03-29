@@ -16,7 +16,7 @@ var Form = React.createClass({
 
 // Create Form
 
-var = options + {
+var options = {
   title: 'Inbox',
   number: 5
 }
