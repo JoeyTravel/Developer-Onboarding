@@ -4,6 +4,7 @@
  * [Gulp]() - node.js based tool to automate the build process.  It is converting JSX files into Javascript.
  * [React for Atom](https://orktes.github.io/atom-react/)
  * [Babel for Atom](https://atom.io/packages/language-babel)
+ * [Webpack](https://webpack.js.org/guides/get-started/)
  * [Radium](http://formidable.com/open-source/radium/) - Radium is a set of tools to manage inline styles on React elements. It gives you powerful styling capabilities without CSS. `npm install radium`
  * [Aphrodite](https://github.com/Khan/aphrodite) - `npm install --save aphrodite`
  
