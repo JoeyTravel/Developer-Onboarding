@@ -17,6 +17,8 @@
  
  `npm install -g gulp-cli`
  
+ `npm start` - start the server
+ 
   * [Edit your environment variable path on OSX](http://hathaway.cc/post/69201163472/how-to-edit-your-path-environment-variables-on-mac)
  
  ```Javascript
