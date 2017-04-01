@@ -71,6 +71,5 @@ http://getbootstrap.com/components/#badges
 () - lets JS know you are going to put your expression on the next line.
 {} - to let JSX know I want this to be a JS expression
 
- * The interior set of `{}` represent a JS object, meaning you are passing an object to the style attribute.
- 
+ * The interior set of `{}` represent a JS object, meaning you are passing an object to the style attribute. 
  
