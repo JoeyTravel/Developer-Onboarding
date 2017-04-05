@@ -70,5 +70,3 @@ http://getbootstrap.com/components/#badges
 {} - to let JSX know I want this to be a JS expression
 
  * The interior set of `{}` represent a JS object, meaning you are passing an object to the style attribute. 
- 
-
